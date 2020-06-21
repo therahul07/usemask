@@ -1,0 +1,2 @@
+# usemask
+Covid 19
